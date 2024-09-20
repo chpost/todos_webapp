@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for todos-spring-forest-3738 on 2024-09-20T08:55:24-05:00
+# fly.toml app configuration file generated for todos-floral-waterfall-4334 on 2024-09-20T09:13:38-05:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'todos-spring-forest-3738'
+app = 'todos-floral-waterfall-4334'
 primary_region = 'dfw'
 
 [build]
