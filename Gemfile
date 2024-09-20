@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'erubis'
+gem 'rackup'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'webrick'
